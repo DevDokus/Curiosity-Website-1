@@ -1,8 +1,8 @@
 ----------------------------------
 ## [OLD]: Curiosity Website Repo. 
 ----------------------------------
-[written by @Grandmother#5057]
-----------------------------------
+[written by @[ DevDokus ]#5057]
+----------------------------------Cancel Changes
 
 I am redesigning the website so it 
 fits the new curiosity website. 
@@ -16,10 +16,10 @@ projects you can always contact us via the contact
 page we will have on the website. 
 http://curiositydiscord.com
 
-You can also contact [Developer] @Grandmother#5057
+You can also contact [Developer] @[ DevDokus ]#5057
 on Discord or mail me via  curiositydiscord@outlook.com
 You can also contact me via my Github page.
-https://github.com/Gyzimo
+https://github.com/DevDokus
 
 I personally want to thank Oskikiboy very much 
 for his hard work and great website design. 
@@ -30,5 +30,5 @@ He was a great sport and helped me a lot.
 I am very thankfull for that buddy. :D
 
 ----------------------------------
-Website Github Page = https://github.com/Gyzimo/CuriosityWeb
+Website Github Page = https://github.com/DevDokus/Curiosity-Website-1
 ----------------------------------
